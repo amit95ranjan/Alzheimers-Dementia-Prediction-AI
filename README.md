@@ -60,7 +60,7 @@ Two classification models were implemented to predict Dementia status:
     ```
 3.  **Run the Jupyter Notebook:**
     ```bash
-    jupyter notebook Dementia_Analysis.ipynb
+    jupyter notebook Dementia Patient Health.ipynb
     ```
 
 ## 🔮 Future Scope
