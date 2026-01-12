@@ -52,7 +52,7 @@ Two classification models were implemented to predict Dementia status:
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/amit95ranjan/Alzheimers-Dementia-Prediction-AI
     ```
 2.  **Install dependencies:**
     ```bash
